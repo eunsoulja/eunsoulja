@@ -23,8 +23,4 @@ I believe the best way to defend a system is to understand how it can be attacke
 
 ![Ethics](https://img.shields.io/badge/ETHICS-1f2937?style=for-the-badge&logo=scales&logoColor=white)
 
-- Only test systems I own or have written permission to assess
-- Responsible disclosure, always
-- Everything here is for educational and defensive purposes
-
-<p align="center"><i>Stay curious. Stay ethical. Stay secure.</i></p>
+In scope or not at all. Anything I find gets reported, not exploited.
