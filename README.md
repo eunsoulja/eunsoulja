@@ -1,16 +1,16 @@
-<h1 align="center">👋 White Hat • Cybersecurity Enthusiast</h1>
+<h1 align="center">White Hat | Cybersecurity Enthusiast</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mindset-Break%20it%20to%20Secure%20it-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-brightgreen?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mindset-Break%20it%20to%20Secure%20it-blue?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-orange?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </p>
 
-## 🔐 About
+![About](https://img.shields.io/badge/ABOUT-1f2937?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 
 I believe the best way to defend a system is to understand how it can be attacked. I practice **ethical, authorized, and legal** security only.
 
-## 🛠️ Toolbox
+![Toolbox](https://img.shields.io/badge/TOOLBOX-1f2937?style=for-the-badge&logo=hammer&logoColor=white)
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
@@ -21,10 +21,10 @@ I believe the best way to defend a system is to understand how it can be attacke
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## ⚖️ Ethics
+![Ethics](https://img.shields.io/badge/ETHICS-1f2937?style=for-the-badge&logo=scales&logoColor=white)
 
 - Only test systems I own or have written permission to assess
 - Responsible disclosure, always
 - Everything here is for educational and defensive purposes
 
-<p align="center"><i>Stay curious. Stay ethical. Stay secure. 🛡️</i></p>
+<p align="center"><i>Stay curious. Stay ethical. Stay secure.</i></p>
