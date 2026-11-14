@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+environment...;Accessing+kernel+space...;Securing+the+perimeter...;root%40eun%3A~%23" alt="Typing SVG" />
 <br>
